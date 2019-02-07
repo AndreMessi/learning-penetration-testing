@@ -1,0 +1,21 @@
+https://rastating.github.io/kioptrix-level-1-ctf-walkthrough/
+https://github.com/rastating?tab=repositories
+https://www.yeahhub.com/ctf-kioptrix-level-1-walkthrough/
+https://www.computersecuritystudent.com/cgi-bin/CSS/process_request_v3.pl?HID=2705e21148a5f53aa40d9f5d9a8768f1&TYPE=SUB
+https://medium.com/@hussaini.faisal/hackthebox-writeup-hawk-a2d2f2a7dda
+https://resources.infosecinstitute.com/billu-b0x-2-ctf-walkthrough/
+https://resources.infosecinstitute.com/hack-the-box-htb-machines-walkthrough-series-haircut/
+https://resources.infosecinstitute.com/author/security-ninja/\
+https://www.softwaretestinghelp.com/mobile-app-security-testing-tools/
+https://askubuntu.com/questions/530955/how-to-install-utorrent-v3-3-on-14-04
+
+
+scanning target
+	arp-scan -l
+	nmap -sC -sV -p- -v -oA nmap ip-addr
+	dirb ipaddr
+
+DerpNStink writeup
+vstfd vulnhub
+proftv vulnhub
+https://pinkysplanet.net/writeup-for-derpnstink/
